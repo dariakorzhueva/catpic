@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CatPic</string>
+    <string name="action_settings">Settings</string>
+    <string name="item_title">Cat</string>
+    <string name="item_desc">Cat Cat
+    </string>
+    <string name="detail_desc">Cat Cat Cat
+    </string>
+    <string name="detail_location">"Current Date"</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_bookmark">Bookmark</string>
+    <integer name="com_vk_sdk_AppId">7088864</integer>
+</resources>

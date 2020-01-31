@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pic_date">
+        <item>Current Date</item>
+    </string-array>
+    <array name="pic_avatar">
+        <item>@drawable/a_avatar</item>
+    </array>
+    <array name="pic_picture">
+        <item>@drawable/a</item>
+    </array>
+</resources>

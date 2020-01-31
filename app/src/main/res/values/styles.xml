@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#333333</item>
+        <!-- Light Indigo -->
+        <item name="colorPrimaryDark">#000000</item>
+        <!-- Dark Indigo -->
+        <item name="colorAccent">#808080</item>
+        <!-- Blue -->
+    </style>
+
+    <style name="AppTheme" parent="AppTheme.Base">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
